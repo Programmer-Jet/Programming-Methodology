@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491798835 source:c:\users\jonathan\documents\code blocks\lab10\main.cpp
+	<iostream>
+	"card.cpp"
+	"card.hpp"
+	"deckofcards.cpp"
+	"deckofcards.hpp"
+
+1491798637 c:\users\jonathan\documents\code blocks\lab10\card.cpp
+	"card.hpp"
+
+1491798503 c:\users\jonathan\documents\code blocks\lab10\card.hpp
+
+1491799003 c:\users\jonathan\documents\code blocks\lab10\deckofcards.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"deckofcards.hpp"
+	<cstdlib>
+	<ctime>
+
+1491797622 c:\users\jonathan\documents\code blocks\lab10\deckofcards.hpp
+

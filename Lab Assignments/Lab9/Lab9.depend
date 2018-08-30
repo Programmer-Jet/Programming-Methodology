@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490898211 source:c:\users\jonathan\documents\code blocks\lab9\main.cpp
+	<iostream>
+	"Complex.h"
+
+1490899539 c:\users\jonathan\documents\code blocks\lab9\complex.h
+
