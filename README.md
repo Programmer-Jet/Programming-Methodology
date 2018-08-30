@@ -19,3 +19,7 @@ Basics of programming and data structures in C++.
 4. Abstract Data Types: lists, linked lists, stacks, and queues
 
 5. Introduction to algorithm analysis: searching and sorting
+
+### Project:
+
+A program to manage a bank account as well as a stock portfolio.
