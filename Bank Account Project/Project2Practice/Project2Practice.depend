@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1494297074 source:c:\users\jonathan\documents\code blocks\project2practice\main.cpp
+	"Account.h"
+	"BankAccount.h"
+	"StockAccount.h"
+	"Structure.h"
+	"Account.cpp"
+	"BankAccount.cpp"
+	"StockAccount.cpp"
+	<iostream>
+	<string>
+
+1494297426 c:\users\jonathan\documents\code blocks\project2practice\account.h
+	"Structure.h"
+	<iostream>
+
+1494297196 c:\users\jonathan\documents\code blocks\project2practice\bankaccount.h
+	<iostream>
+
+1494298641 c:\users\jonathan\documents\code blocks\project2practice\stockaccount.h
+	<iostream>
+
+1494297401 c:\users\jonathan\documents\code blocks\project2practice\account.cpp
+	"Account.h"
+	<iostream>
+	"Structure.h"
+
+1494298363 c:\users\jonathan\documents\code blocks\project2practice\bankaccount.cpp
+	"BankAccount.h"
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<windows.h>
+	<sstream>
+	<string>
+	<math.h>
+	<wchar.h>
+	<iomanip>
+	<errno.h>
+	<fstream>
+	"Structure.h"
+
+1494382303 c:\users\jonathan\documents\code blocks\project2practice\stockaccount.cpp
+	"StockAccount.h"
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+	<string>
+	<fstream>
+	<vector>
+	"Structure.h"
+
+1494294964 c:\users\jonathan\documents\code blocks\project2practice\structure.h
+	<vector>
+	<iostream>
+	<iomanip>
+

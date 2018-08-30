@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490490134 source:c:\users\jonathan\documents\code blocks\project1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cmath>
+	<algorithm>
+	"project1.cpp"
+
+1490390391 c:\users\jonathan\documents\code blocks\project1\project1.h
+	<iostream>
+
+1490492231 c:\users\jonathan\documents\code blocks\project1\project1.cpp
+	"project1.h"
+
