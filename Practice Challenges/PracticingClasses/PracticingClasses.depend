@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492743773 source:c:\users\jonathan\documents\code blocks\practicingclasses\main.cpp
+	<iostream>
+	<cassert>
+	<stdexcept>
+	<vector>
+

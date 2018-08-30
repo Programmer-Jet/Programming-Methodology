@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488581095 source:c:\users\jonathan\documents\code blocks\pointer as array\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
